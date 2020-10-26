@@ -14,7 +14,7 @@ public class HelloJavaAppApplication {
 
 	@RequestMapping("/")
 	String home() {
-		return "Hello World!";
+		return "Hola Mundo, Saludos!";
 	}
 
 	public static void main(String[] args) {
